@@ -1,2 +1,2 @@
 # study-react
-React.js 공부
+React.js
